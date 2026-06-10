@@ -60,57 +60,57 @@ Instead of relying on standard component libraries (like Bootstrap or Tailwind p
 
 ### 🏠 1. Beranda (Homepage)
 <p align="center"><i>Showcases the entrance animations, premium glassmorphism navbar, scrolling ticker, and engaging hover states.</i></p>
-<video src="videos/Beranda.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Beranda.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 🎯 2. Visi & Misi
 <p align="center"><i>Elegant presentation of the village's vision and missions using alternating card layouts and organic background blobs.</i></p>
-<video src="videos/Visi-Misi.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Visi-Misi.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 🏛️ 3. Sejarah Kelurahan (History)
 <p align="center"><i>An immersive chronological journey using a custom vertical timeline and heritage-themed color palettes.</i></p>
-<video src="videos/Sejarah_Kelurahan.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Sejarah_Kelurahan.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 👥 4. Data Aparatur (Organization Structure)
 <p align="center"><i>Features an intricate, CSS-drawn masonry organization chart instead of a generic list, complete with staggered entry animations.</i></p>
-<video src="videos/Aparat.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Aparat.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 🎓 5. Tim KKN (Student Team)
 <p align="center"><i>A vibrant, emerald-themed profile page dedicated to the student developers and contributors.</i></p>
-<video src="videos/Tim-KKN.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Tim-KKN.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 🗺️ 6. Peta Kelurahan (Interactive Map)
 <p align="center"><i>A robust GIS implementation showing real-time UMKM data, complete with smooth category filtering and skeleton loaders.</i></p>
-<video src="videos/Peta.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Peta.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 🤖 7. Chatbot AI & Voice Assistant
 <p align="center"><i>A highly accessible split-screen AI chat interface where users can ask questions using text or voice input while browsing the main site.</i></p>
-<video src="videos/Chatbot.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Chatbot.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 📊 8. Statistik (Demographics Dashboard)
 <p align="center"><i>Clean data visualization using CSS Grid, displaying live counting animations as the user scrolls into view.</i></p>
-<video src="videos/Statistik.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Statistik.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 📰 9. Berita (News Portal)
 <p align="center"><i>A fully functional news feed with dynamic routing, rich text rendering, and smooth page transitions.</i></p>
-<video src="videos/Berita.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Berita.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### 📸 10. Galeri (Media Gallery)
 <p align="center"><i>A responsive masonry grid showcasing village activities, complete with an immersive fullscreen lightbox.</i></p>
-<video src="videos/Galeri.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Galeri.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 ### ⚙️ 11. Admin Panel (Legacy V1 System)
 <p align="center"><i>A brief look at the legacy V1 administrative dashboard used to manage the content displayed on the frontend.</i></p>
-<video src="videos/Admin_Panel.mp4" controls="controls" muted="muted" width="85%"></video>
+<video src="https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Admin_Panel.mp4" controls="controls" muted="muted" width="85%"></video>
 <br/><br/><br/>
 
 </div>
