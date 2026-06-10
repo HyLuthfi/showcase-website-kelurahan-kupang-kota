@@ -60,77 +60,117 @@ Instead of relying on standard component libraries (like Bootstrap or Tailwind p
 ### 🏠 1. Beranda (Homepage)
 *Showcases the entrance animations, premium glassmorphism navbar, scrolling ticker, and engaging hover states.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Beranda.mp4
+https://github.com/user-attachments/assets/549d705c-4b35-4f07-b690-3a26efa56f0a
 
 <br/><br/><br/>
 
 ### 🎯 2. Visi & Misi
 *Elegant presentation of the village's vision and missions using alternating card layouts and organic background blobs.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Visi-Misi.mp4
+
+
+https://github.com/user-attachments/assets/44d0de22-fa86-4b11-b6a8-423c4ea89ffe
+
+
 
 <br/><br/><br/>
 
 ### 🏛️ 3. Sejarah Kelurahan (History)
 *An immersive chronological journey using a custom vertical timeline and heritage-themed color palettes.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Sejarah_Kelurahan.mp4
+
+
+https://github.com/user-attachments/assets/42024503-a610-456b-93e0-dcf415e9db45
+
+
 
 <br/><br/><br/>
 
 ### 👥 4. Data Aparatur (Organization Structure)
 *Features an intricate, CSS-drawn masonry organization chart instead of a generic list, complete with staggered entry animations.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Aparat.mp4
+
+
+https://github.com/user-attachments/assets/fd7eccc0-765b-4ee5-b4b8-92f06b55b6b4
+
+
 
 <br/><br/><br/>
 
 ### 🎓 5. Tim KKN (Student Team)
 *A vibrant, emerald-themed profile page dedicated to the student developers and contributors.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Tim-KKN.mp4
+
+
+https://github.com/user-attachments/assets/08081df7-23cf-4843-9b08-19c47db09f47
+
+
 
 <br/><br/><br/>
 
 ### 🗺️ 6. Peta Kelurahan (Interactive Map)
 *A robust GIS implementation showing real-time UMKM data, complete with smooth category filtering and skeleton loaders.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Peta.mp4
+
+
+https://github.com/user-attachments/assets/f30a86af-af2d-406f-a86e-e54829de335b
+
+
 
 <br/><br/><br/>
 
 ### 🤖 7. Chatbot AI & Voice Assistant
 *A highly accessible split-screen AI chat interface where users can ask questions using text or voice input while browsing the main site.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Chatbot.mp4
+
+
+https://github.com/user-attachments/assets/08230388-71d3-41c8-8fdc-78d0fd8e5cf6
+
+
 
 <br/><br/><br/>
 
 ### 📊 8. Statistik (Demographics Dashboard)
 *Clean data visualization using CSS Grid, displaying live counting animations as the user scrolls into view.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Statistik.mp4
+
+
+https://github.com/user-attachments/assets/e5898a95-9670-44ce-8e2b-963d1adab974
+
+
 
 <br/><br/><br/>
 
 ### 📰 9. Berita (News Portal)
 *A fully functional news feed with dynamic routing, rich text rendering, and smooth page transitions.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Berita.mp4
+
+
+https://github.com/user-attachments/assets/5991a76d-f83e-42fb-ba85-f652c6e83454
+
+
 
 <br/><br/><br/>
 
 ### 📸 10. Galeri (Media Gallery)
 *A responsive masonry grid showcasing village activities, complete with an immersive fullscreen lightbox.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Galeri.mp4
+
+
+https://github.com/user-attachments/assets/3a42b6dd-20c6-4770-ba6a-89b225868d79
+
+
 
 <br/><br/><br/>
 
 ### ⚙️ 11. Admin Panel (Legacy V1 System)
 *A brief look at the legacy V1 administrative dashboard used to manage the content displayed on the frontend.*
 
-https://github.com/HyLuthfi/showcase-website-kelurahan-kupang-kota/raw/main/videos/Admin_Panel.mp4
+
+
+https://github.com/user-attachments/assets/ce20bffb-b6c1-4a01-98c4-3940aaba8901
+
+
 
 <br/><br/><br/>
 
@@ -181,7 +221,7 @@ To achieve the highly specific, organic, and bouncy aesthetics requested by the 
 **Luthfi Muthathohirin**  
 *Informatics Engineering - AI and Web Dev*
 
-<a href="https://linkedin.com/in/luthfi-muthathohirin">
+<a href="www.linkedin.com/in/luthfi-muthathohirin-b58996293">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/HyLuthfi">
