@@ -6,7 +6,7 @@
   <br />
   <br />
 
-# 🌟 SISTEM INFORMASI KELURAHAN KUPANG KOTA (V2)
+# 🌟 SISTEM INFORMASI KELURAHAN KUPANG KOTA
 
 <a href="https://github.com/HyLuthfi"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Modern+Village+Information+System;Premium+Glassmorphism+UI;GIS+Mapping+for+Local+UMKM;Split-Screen+AI+Chatbot;Fluid+Micro-Animations" alt="Typing SVG" /></a>
 
